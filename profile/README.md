@@ -1,6 +1,6 @@
 # Agent Services
 
-Agent Services ist der technische Heimat des EmpCo-UWG Monitor – einem gemeinsamen Projekt der [Niederschick OG](https://nw-partner.at/) und [Tobias Zucali](https://www.linkedin.com/in/tobias-zucali).
+Agent Services ist die technische Heimat des EmpCo-UWG Monitor – eines gemeinsamen Projekts der [Niederschick OG](https://nw-partner.at/) und [Tobias Zucali](https://www.linkedin.com/in/tobias-zucali).
 
 - **Inhalt, Vertrieb und Beratung:** Niederschick OG
 - **Softwareentwicklung, technischer Betrieb, Dokumentation und technischer Support:** Tobias Zucali, selbständiger Unternehmer
